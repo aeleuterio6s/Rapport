@@ -5,7 +5,9 @@ date: "15/02/2024"
 output: word_document
 ---
 
-## Résumé
+
+
+# Résumé
 
 1. Présentation
    - Présentation du thème et de l'importance de l'envirotypage en agriculture de précision.
@@ -27,14 +29,14 @@ output: word_document
 8. Références
 - Liste des sources bibliographiques utilisées pour étayer le rapport, y compris les articles scientifiques, les livres et autres ressources pertinentes.
 
-## Introduction
+# Introduction
 
 L'envirotypage est un terme qui fait référence à la caractérisation et à la quantification des effets de l'environnement sur les phénotypes des plantes ou des organismes.
 Dans le contexte de l'agriculture de précision, l'envirotypage apparaît comme une approche innovante pour comprendre et optimiser les réponses des cultures à l'environnement. Alors que le génotypage a traditionnellement été centré sur l'identification des gènes responsables des caractéristiques des plantes (Galli et al., 2018), l'envirotypage reconnaît l'influence cruciale de l'interaction complexe entre les gènes et l'environnement sur la performance phénotypique des cultures. Cette approche reconnaît non seulement l'importance des variations environnementales (Costa-Neto et al., 2021b), mais cherche également à intégrer des données environnementales provenant de sources multiples afin de mieux comprendre l'interaction génotype-environnement et de développer des stratégies de sélection moléculaire plus efficaces.
 
 Dans la présente analyse, nous explorons l'importance croissante de l'environnement dans l'agriculture de précision et dans plusieurs domaines connexes. Tout au long de ce rapport, nous examinerons comment les outils d'envirotypage permettent l'intégration de données environnementales, génomiques et phénotypiques, élargissant ainsi notre compréhension des interactions complexes entre le génotype et l'environnement et améliorant le processus de sélection et de sélection des cultivars dans son ensemble.
 
-## Contextualisation théorique
+# Contextualisation théorique
 
 L'interaction entre les gènes et l'environnement joue un rôle clé dans la détermination de la performance phénotypique des plantes. Cette interaction dynamique influence un large éventail de caractéristiques végétales, de la croissance et du développement à la résistance aux stress biotiques et abiotiques.
 Comprendre cette interaction génotype-environnement est essentiel pour l'agriculture de précision, car elle permet d'optimiser la gestion agricole pour différentes conditions environnementales, en visant une meilleure productivité et durabilité. Par exemple, différentes variétés de cultures peuvent présenter des réponses distinctes au même stress environnemental, et la compréhension de ces différences permet aux agriculteurs de sélectionner les cultivars les mieux adaptés à certains environnements.
@@ -44,7 +46,7 @@ L'envirotypage, qui combine des données environnementales provenant de diverses
 L'environnement, quant à lui, intègre des données environnementales provenant de diverses sources, notamment le climat, le sol, la topographie, l'imagerie satellitaire, les capteurs de terrain et la modélisation informatique. Cette approche globale permet de mieux comprendre l'interaction génotype-environnement et de développer des stratégies de sélection moléculaire plus efficaces.
 En reconnaissant l'importance des variations environnementales et en intégrant des données environnementales provenant de sources multiples, l'envirotypage offre une approche globale pour déchiffrer les impacts environnementaux sur les cultures et maximiser leur potentiel de production dans différents contextes agricoles. En comprenant comment les plantes réagissent aux conditions environnementales changeantes, les agriculteurs peuvent prendre des décisions plus éclairées sur la gestion des cultures, sélectionner des cultivars plus appropriés et mettre en œuvre des pratiques de culture plus efficaces et durables.
 
-## Comment cela fonctionne-t-il ? 
+# Comment cela fonctionne-t-il ? 
 
 
 L'envirotypage est réalisé grâce à la collecte et à l'analyse d'une variété de données environnementales qui peuvent influencer la croissance et le développement des plantes (Xu, 2016). Il peut s'agir de :
@@ -58,4 +60,207 @@ Modélisation computationnelle : Utilisation de modèles mathématiques et infor
 Les facteurs environnementaux peuvent être classés en cinq groupes principaux : le climat, le sol, le couvert végétal, la gestion des cultures et les organismes compagnons. Chacune contient plusieurs sous-catégories qui décrivent des facteurs environnementaux importants qui, comme illustré ci-dessous, affectent la croissance et le développement des plantes.
 En combinant ces données et ces techniques, les chercheurs peuvent identifier des modèles et des relations entre les conditions environnementales et le rendement des plantes, ce qui permet de mieux comprendre les facteurs qui influencent la croissance, la productivité et la qualité des cultures. 
 ![Ill. 1. XU, Yunbi, 2016. Envirotypage pour décrypter les impacts environnementaux sur les plantes cultivées. Génétique théorique et appliquée. Avril 2016. Vol. 129, n° 4, p. 653-673. DOI 10.1007/S00122-016-2691-5.](Images/image 1.png)
+(ref:fig:Image 1) Ill. 1. XU, Yunbi, 2016. Envirotypage pour décrypter les impacts environnementaux sur les plantes cultivées. Génétique théorique et appliquée. Avril 2016. Vol. 129, n° 4, p. 653-673. DOI 10.1007/S00122-016-2691-5.
+
+# Applications 
+
+
+L'envirotypage a une variété d'applications dans l'agriculture de précision, offrant des informations précieuses pour optimiser la gestion des cultures et améliorer les performances des cultures. Voici quelques-unes des principales applications :
+
+**Sélection de cultivars** : Utilisation des données environnementales pour sélectionner les cultivars les mieux adaptés à certaines conditions de croissance, en augmentant la résistance aux stress environnementaux et en améliorant les rendements des cultures. (Costa-Neto et al., 2021a).
+Zonage agricole : Division des zones de culture en zones homogènes en fonction des caractéristiques environnementales, permettant l'application de pratiques agricoles spécifiques et personnalisées pour chaque zone(Xu, 2016).
+
+**Gestion de l'irrigation :** Surveillance de l'humidité du sol et des conditions météorologiques pour optimiser l'épandage de l'eau, réduire les déchets et assurer une utilisation plus efficace des ressources en eau(Xu, 2016).
+
+**Gestion des éléments nutritifs :** Évaluer la disponibilité des éléments nutritifs dans le sol et ses interactions avec les facteurs environnementaux afin d'élaborer des stratégies de fertilisation plus précises et plus efficaces.(Xu, 2016).
+
+**Prévision des ravageurs et des maladies :** Analyse des conditions environnementales favorables au développement de ravageurs et de maladies pour mettre en place des mesures préventives et atténuer les risques d'infestations (Xu, 2016).
+
+**Optimisation de l'espacement et de la disposition des plantes :** Utiliser les données sur les caractéristiques du sol et de l'environnement pour déterminer l'espacement et la disposition optimaux des plantes, maximiser l'utilisation des ressources disponibles et optimiser la croissance des cultures. (Xu, 2016).
+
+En plus de l'agriculture, l'environnement a également des applications dans d'autres domaines, notamment :
+
+**Médecine et santé publique :** Identification des modèles environnementaux associés aux maladies et aux problèmes de santé, tels que la pollution de l'air, l'exposition aux produits chimiques toxiques et l'accès aux espaces verts, afin d'orienter les politiques de santé publique et les interventions préventives.(Chang, Stoler, 2019 ; Engelhard et al., 2020).
+
+**Écologie et conservation :** Étude des effets des changements environnementaux sur les populations animales et les écosystèmes, y compris la surveillance des habitats naturels, des aires protégées et des impacts humains sur la biodiversité (Pauli et al., 2016).
+
+**Planification urbaine :** Évaluation de l'environnement bâti et des caractéristiques environnantes afin d'éclairer le développement urbain durable, la planification des transports, la conception des espaces publics et la création d'environnements sains dans les villes.
+
+**Gestion des ressources naturelles et de l'environnement :** Surveillance de la qualité de l'eau, de l'air et des sols, analyse des conditions météorologiques et prévision des événements naturels extrêmes pour la gestion durable des ressources naturelles et l'atténuation des impacts du changement climatique (Xu, 2016).
+
+**Éducation à l'environnement :**  Utiliser les données environnementales et les technologies de télédétection pour promouvoir la sensibilisation et l'éducation à l'environnement sur les questions liées à l'environnement, en encourageant l'adoption de comportements durables et la conservation des ressources naturelles.
+
+# Exemples
+
+Dans la section des exemples, nous explorerons des cas concrets où l'environnement a été appliqué avec succès dans différents contextes agricoles et environnementaux, ainsi que dans des domaines en dehors de l'agriculture. Ces exemples illustrent comment l'intégration de données environnementales provenant de sources multiples peut fournir des informations précieuses pour optimiser la gestion des cultures, améliorer la productivité des cultures et promouvoir la durabilité de l'agriculture. 
+
+Nous examinerons comment l'envirotypage a été utilisé pour sélectionner des cultivars adaptés à des environnements spécifiques, optimiser la gestion des ressources naturelles telles que l'eau et les nutriments, prédire les ravageurs et les maladies, et éclairer les décisions de planification agricole dans différentes régions du monde. 
+
+De plus, nous mettrons en évidence des exemples où l'envirotypage est appliqué dans des domaines autres que l'agriculture, tels que la médecine, l'écologie, l'urbanisme et la gestion de l'environnement. Ce large éventail d'exemples démontre le potentiel de l'envirotypage en tant qu'outil puissant pour relever les défis environnementaux et promouvoir le développement durable dans divers domaines.
+
+## SIG-FA 
+
+Appelée SIG-FA, cette nouvelle approche combine des systèmes d'information géographique (SIG), des modèles factoriels analytiques (FA), la régression par les moindres carrés partiels (PLS) et des techniques d'envirotypage pour prédire la performance phénotypique des cultivars dans des environnements non testés (Araujo et al., 2023).
+
+Le SIG-FA vous permet de prédire les performances phénotypiques des génotypes testés dans des environnements non testés, de sélectionner les meilleurs génotypes en fonction de leurs performances globales et de leur stabilité à l'aide d'outils de sélection d'AF, et de produire des cartes thématiques qui montrent les performances globales ou celles des pairs, facilitant ainsi la prise de décision.
+
+Cette méthode innovante a été illustrée à l'aide d'ensembles de données sur le riz (Oryza sativa) et le soja (Glycine max) dans le cadre d'essais multi-environnementaux menés dans des zones tropicales. Grâce au SIG-FA, il a été possible d'identifier des groupes d'environnements où les génotypes présentaient des performances supérieures prédites, ce qui a fourni des informations précieuses pour le développement de nouvelles stratégies d'amélioration génétique.
+
+Cette technologie représente une avancée significative dans le domaine de l'envirotypage, car elle permet d'identifier de nouveaux scénarios de sélection en considérant l'interaction complexe entre le génotype et l'environnement. De plus, la possibilité de produire des cartes thématiques facilite la recommandation de cultivars, optimisant ainsi la sélection des génotypes les mieux adaptés aux différentes conditions environnementales.
+
+## Maximiser le rendement du maïs
+
+Un exemple concret d'application de l'envirotypage est l'utilisation de techniques de phénotypage à haut débit pour caractériser la hauteur des plantes (PH) et le rendement en grains (GY) dans différents environnements de culture du maïs (Zea mays L.).(Galli et al., 2018). Dans ces applications, des capteurs et des images sont utilisés pour collecter des données phénotypiques rapidement et efficacement à plusieurs endroits et au fil du temps.
+
+Par exemple, dans les études de phénotypage à haut débit, les capteurs installés sur le terrain peuvent mesurer automatiquement la hauteur des plantes à différents stades de croissance, tandis que les systèmes de récolte automatisés peuvent enregistrer efficacement le rendement en grains de chaque parcelle. Ces données phénotypiques peuvent ensuite être intégrées à des informations environnementales, telles que les conditions du sol, la température et l'humidité, afin d'évaluer comment les facteurs environnementaux influencent les caractéristiques des plantes.
+
+En analysant les données recueillies par les techniques d'environnement, les chercheurs peuvent identifier les modèles de réponse des plantes à différentes conditions environnementales et comprendre comment ces modèles affectent le rendement et d'autres caractéristiques agronomiques importantes. Cela peut aider les sélectionneurs de plantes à sélectionner les génotypes les mieux adaptés à des environnements spécifiques et à élaborer des stratégies de gestion des cultures plus efficaces pour maximiser la productivité et la durabilité des cultures de maïs.
+
+## Optimisation de la sélection hybride
+
+Une autre étude récente menée sur la plaine de Huanghuaihai en Chine (Yue et al., 2022), illustre de façon frappante comment l'envirotypage peut être un outil puissant pour optimiser la sélection d'hybrides de maïs adaptés à des environnements spécifiques et assurer la stabilité des performances de ces hybrides au cours des différentes années de culture.
+
+Dans cette étude, menée par Yue et al. (2022), 26 hybrides de maïs ont été évalués dans 10 localités au cours de deux récoltes consécutives, en tenant compte d'un total de neuf caractères agronomiques. Pour comprendre l'interaction complexe entre les génotypes du maïs et l'environnement, des informations climatiques sur 20 ans et 19 covariables environnementales ont été collectées. Ces données ont ensuite été utilisées pour identifier quatre mégaenvironnements dans la région, regroupant des endroits ayant des conditions météorologiques similaires au fil du temps.
+
+Étonnamment, les résultats ont révélé que la performance des hybrides de maïs était significativement affectée par l'interaction du génotype × mégaenvironnement × année, soulignant l'importance de prendre en compte non seulement la variation environnementale entre les sites, mais aussi la variabilité au fil du temps. Par exemple, les endroits où l'accumulation de précipitations était la plus élevée n'avaient pas nécessairement les rendements les plus élevés, ce qui suggère que des variables climatiques telles que le déficit de pression de vapeur, les températures minimales et une humidité relative élevée peuvent influencer de manière plus significative les performances des cultures, en particulier dans les environnements sans restriction d'eau.
+
+À l'aide d'un indice de rendement et de stabilité moyen à caractères multiples (MTMPS), les chercheurs ont identifié des hybrides de maïs prometteurs qui ont démontré un rendement et une stabilité satisfaisants dans différentes conditions de croissance au fil des ans. Par exemple, les hybrides G23 et G25 ont été sélectionnés dans trois des quatre mégaenvironnements identifiés, étant considérés comme les plus stables et les plus adaptés de l'échantillon. De plus, l'hybride G5 a montré un bon rendement et une bonne stabilité dans un mégaenvironnement plus sec et plus chaud avec un déficit de pression de vapeur plus élevé, y compris dans la province du Hubei.
+
+Cette étude met en évidence le potentiel de l'envirotypage à fournir des informations précieuses qui peuvent guider les stratégies de sélection d'hybrides de maïs plus adaptés et plus stables face au changement climatique et aux variations environnementales. En délimitant les mégaenvironnements et en prenant en compte l'interaction génotype-environnement de manière plus globale, les programmes de sélection peuvent accroître l'efficacité et la durabilité de la production de maïs, contribuant ainsi à la sécurité alimentaire dans des régions telles que la plaine de Huanghuaihai et au-delà.
+
+## Lunettes Intelligentes
+
+Pour le domaine de la santé, les efforts de phénotypage numérique ont utilisé des appareils portables pour relier un large éventail de données physiologiques à des résultats de santé ou à des comportements d'intérêt (Engelhard et al., 2020). Moins d'attention a été accordée au contexte environnemental entourant ces phénomènes, mais il est crucial de le comprendre afin de fournir des interventions appropriées. Les avancées technologiques récentes, telles que l'utilisation de lunettes intelligentes alimentées par l'apprentissage profond (Engelhard et al., 2020), ouvrent de nouvelles possibilités pour une étude plus complète et plus ambitieuse de l'environnement et de la santé.
+
+Ces lunettes intelligentes, équipées de caméras frontales et d'algorithmes de vision par ordinateur, ont le potentiel de capturer et d'interpréter l'environnement environnant en temps réel. Ce faisant, ils fournissent une nouvelle couche de données environnementales qui complète les informations physiologiques et comportementales collectées par les appareils portables traditionnels. Ceci est crucial car cela permet une compréhension plus complète des facteurs qui influencent la santé et le bien-être d'un individu.
+
+De cette façon, ces lunettes intelligentes peuvent non seulement surveiller l'activité physique d'une personne, mais aussi identifier l'environnement spécifique dans lequel cette activité se déroule. Ils peuvent détecter si quelqu'un se promène à l'extérieur dans un parc, dans une salle de sport ou dans un bureau. Ces informations contextuelles sont essentielles pour comprendre comment l'environnement affecte le comportement des gens et, par conséquent, leur santé.
+
+De plus, les lunettes intelligentes peuvent être utilisées pour identifier et évaluer les risques environnementaux pour la santé, tels que l'exposition à la pollution de l'air ou la présence d'aliments malsains dans un supermarché. Cela permet aux professionnels de la santé et aux chercheurs d'élaborer des interventions plus ciblées et plus efficaces pour améliorer la santé de la population.
+
+En bref, les lunettes intelligentes alimentées par l'apprentissage profond représentent un outil innovant et puissant pour étudier la relation entre l'environnement et la santé. En intégrant les données environnementales dans les analyses numériques de phénotypage, nous pouvons acquérir une compréhension plus holistique et plus précise des déterminants de la santé humaine, ce qui ouvre de nouvelles possibilités pour des interventions et des politiques de santé fondées sur des données probantes.
+
+## Médecine de précision
+
+La médecine de précision a également pris de l'importance en tant qu'approche innovante de la prestation des soins de santé, en mettant l'accent sur la personnalisation des traitements en fonction de la variabilité individuelle des gènes, de l'environnement et du mode de vie (Chang, Stoler, 2019). Récemment, le concept d'envirotypage est apparu comme une extension de cette approche, visant à calculer des profils d'exposition environnementaux individualisés à haute résolution, renforçant ainsi les efforts vers la médecine de précision.
+
+Une étude récente a mis en évidence le potentiel de l'envirotypage dans le domaine de l'ophtalmologie (Chang, Stoler, 2019). Ils ont découvert qu'une affection oculaire appelée glaucome d'exfoliation (XFG) est liée à certaines caractéristiques génétiques spécifiques, connues sous le nom d'allèles, du gène LOXL1. Cependant, quelque chose d'intéressant a été observé : la sévérité de XFG chez les personnes porteuses de ces allèles génétiques variait en fonction de l'endroit où elles vivaient, en particulier en ce qui concerne la latitude. 
+
+Cela suggère que des facteurs environnementaux, tels que les conditions météorologiques ou l'exposition au soleil, peuvent influencer la façon dont la maladie se manifeste en plus des facteurs génétiques. Cette découverte montre l'impact que les nouvelles technologies basées sur ce type de méthode peuvent façonner l'avenir de ce domaine. 
+
+# Ressources logicielles et de données
+
+L'intégration des facteurs environnementaux dans les études génétiques et génomiques, en particulier dans le contexte d'environnements multiples, nécessite des outils sophistiqués pour la collecte, le traitement et l'analyse des données. Voici quelques exemples de ces outils : 
+
+**ArcGIS :** une plateforme de systèmes d'information géographique (SIG) de premier plan qui offre une large gamme d'outils pour l'analyse et la visualisation des données spatiales. ArcGIS est largement utilisé dans l'intégration d'informations climatiques, pédologiques et topographiques pour les études d'environnement.
+
+**QGIS :** Alternative open source à ArcGIS, QGIS offre des fonctionnalités similaires pour l'analyse et la visualisation des données spatiales. C'est une option populaire parmi les chercheurs et les professionnels à la recherche d'une solution gratuite et de haute qualité.
+
+**R :** Un langage de programmation statistique largement utilisé dans l'analyse de données, y compris l'envirotypage. Des progiciels tels que « raster » et « sp » fournissent des outils pour la manipulation et l'analyse de données spatiales, tandis que des progiciels tels que « envirotyping » offrent des fonctions spécifiques pour les analyses liées à l'envirotypage.
+
+**Python :** une autre option populaire pour l'analyse des données, Python propose diverses bibliothèques et packages pour gérer les données environnementales et spatiales. Des bibliothèques telles que 'geopandas' et 'rasterio' sont utiles pour la manipulation et l'analyse de données spatiales, tandis que des progiciels tels que 'scikit-learn' peuvent être utilisés pour la modélisation prédictive dans les études d'envirotypage.
+ENVI: Logiciel spécialisé dans le traitement et l'analyse d'images géospatiales. ENVI propose des outils avancés pour l'analyse des données de télédétection, y compris l'intégration des données environnementales dans les études d'environnement.
+
+Pour répondre aux besoins spécifiques de cette technique pour la sélection végétale, qui est mon domaine d'étude, nous aborderons plus en profondeur EnvRtype (Costa-Neto et al., 2021b). Un R-package conçu pour gérer l'environnement, intégrant des concepts écophysiologiques en génétique quantitative et en génomique pour de multiples environnements. 
+
+Ce logiciel a été développé par un groupe international de chercheurs et facilite la collecte de données environnementales brutes, en les traitant pour décrire le développement des organismes dans leurs environnements cibles, en tirant parti des connaissances écophysiologiques antérieures. Grâce à des collaborations entre des institutions au Brésil, au Mexique et aux Philippines, EnvRtype représente un outil précieux pour l'analyse et la compréhension des interactions génotype-environnement dans les programmes de sélection végétale.
+
+## Fonctionnement
+
+Le fonctionnement d'EnvRtype est composé de trois modules principaux :
+Le module 1, appelé télédétection environnementale, fournit les outils nécessaires pour recueillir, traiter et résumer les données environnementales brutes, ce qui permet de mieux comprendre l'environnement dans lequel les cultures agricoles sont intégrées et de faciliter des analyses plus détaillées et précises pour des études scientifiques et des applications pratiques en agriculture. Décrivant un ensemble d'outils et de fonctions développés pour collecter et traiter des données environnementales brutes provenant de sources publiques telles que la Prediction of Worldwide Energy Resources (POWER) de la NASA. Ces données sont essentielles pour comprendre et caractériser l'environnement dans lequel les cultures agricoles sont insérées, permettant des analyses détaillées du climat, de la topographie et d'autres facteurs environnementaux qui influencent directement le développement des plantes.
+La fonction principale de ce module est get_weather, qui permet de collecter des données météorologiques et d'altitude quotidiennes pour un emplacement géographique donné et une période de temps spécifique. Avec des arguments tels que le nom de l'environnement, les coordonnées géographiques, l'intervalle de temps et le pays d'identification, cette fonction accède aux données de plates-formes telles que POWER de la NASA et la mission de topographie radar de la navette (SRTM) pour fournir des informations détaillées sur le climat et l'altitude de la région d'intérêt.
+De plus, le module offre la fonction extract_GIS, qui permet d'extraire des valeurs ponctuelles à partir de fichiers raster volumineux à partir de bases de données de systèmes d'information géographique (SIG). Ceci est utile pour obtenir des covariables environnementales spécifiques à partir de sources telles que WorldClim et SoilGrids, qui sont essentielles pour une analyse plus détaillée et plus précise de l'environnement.
+Une fois les données collectées, la fonction summaryWTH permet d'effectuer une analyse de base des données, en fournissant des statistiques récapitulatives sur les variables environnementales collectées. Cette fonction est utile pour obtenir une vue d'ensemble des données et identifier des modèles ou des tendances importants pour une analyse plus approfondie.
+Le module 2, intitulé Caractérisation macroenvironnementale, se concentre sur la caractérisation des variations macroenvironnementales au cours de la croissance et du développement des cultures, ou à des intervalles de temps fixes pour la caractérisation de l'emplacement. Ce module fournit une boîte à outils permettant d'explorer et de comprendre les différents types d'environnements (également appelés envirotypes) et de collecter des covariables environnementales pertinentes pour ces environnements.
+La fonction principale de ce module est processWTH, qui est utilisé pour traiter les données environnementales collectées dans le module 1. Cette fonction calcule plusieurs variables liées au rayonnement solaire et à la température, telles que la durée d'ensoleillement et les degrés-jours de croissance, qui sont essentielles à la compréhension de l'environnement de croissance des cultures.
+De plus, le module offre la fonction env_typing, qui permet la découverte et la caractérisation de différents types d'environnements (envirotypes) à partir des données environnementales traitées. Cette fonction permet d'identifier les tendances dans les données environnementales et de regrouper des zones similaires en termes de conditions environnementales en grappes ou en catégories, ce qui facilite l'analyse et l'interprétation des données.
+À partir de ces outils, il est possible de créer des tableaux de covariables environnementales qui décrivent les conditions environnementales de différents endroits au fil du temps. Ces matrices sont essentielles pour comprendre les variations macro-environnementales et leur influence sur la croissance et le développement des cultures, ainsi que pour caractériser la localisation des zones de culture.
+Le module 3, intitulé Similarité enviromique et prédiction phénotypique, vise à calculer la similarité environnementale entre différents environnements à l'aide de corrélations euclidiennes ou de distances basées sur des covariables environnementales. Ce module fournit des outils permettant d'intégrer des sources enviromiques dans la prédiction génomique, améliorant ainsi la précision de la prédiction phénotypique pour de multiples environnements.
+Le processus commence par la construction de noyaux de similarité enviromique à l'aide des données environnementales disponibles. La fonction principale de cette étape est env_kernel, qui est responsable du calcul de ces noyaux de similarité. Ces grains capturent les similitudes entre les différents environnements en fonction de leurs caractéristiques environnementales, ce qui est essentiel pour comprendre comment différents environnements affectent les phénotypes des cultures.
+Ces noyaux sont ensuite intégrés dans des modèles statistiques pour tenir compte de la variation phénotypique dans les tests multi-environnementaux (MET). La fonction get_kernel joue un rôle important dans l'intégration de ces noyaux dans les modèles statistiques développés pour la prédiction phénotypique. À son tour, la fonction kernel_model est utilisée pour ajuster ces modèles de régression à l'aide d'une approche bayésienne efficace, en tirant parti de l'information contenue dans les noyaux de similarité enviromique.
+En intégrant des noyaux de similarité enviroomique dans les modèles statistiques, il est possible d'améliorer la précision de la prédiction phénotypique pour différents environnements. Ceci est particulièrement important dans les contextes agricoles, où les cultures sont cultivées dans une grande variété de conditions environnementales, et la précision de la prédiction phénotypique peut être affectée par les variations environnementales.
+
+Ces modules combinés permettent aux chercheurs de recueillir, de traiter et d'utiliser efficacement les données environnementales pour comprendre les variations environnementales, caractériser différents types d'environnements et prédire les phénotypes dans différentes conditions environnementales. Ceci est essentiel pour optimiser la sélection des plantes et la prise de décision agricole dans une grande variété de scénarios.
+
+![Figure illustrative du fonctionnement des modules tirée de COSTA-NETO, Germano, GALLI, Giovanni, CARVALHO, Humberto Fanelli, CROSSA, José et FRITSCHE-NETO, Roberto, 2021b. EnvRtype : un logiciel d'interaction entre l'enviromique et la génomique quantitative en agriculture. DE KONING, D-J (éd.), Gènes G3|Génomes|Génétique. 15 à](Images/Image 2.png)
+*Figure illustrative du fonctionnement des modules tirée de COSTA-NETO, Germano, GALLI, Giovanni, CARVALHO, Humberto Fanelli, CROSSA, José et FRITSCHE-NETO, Roberto, 2021b. EnvRtype : un logiciel d'interaction entre l'enviromique et la génomique quantitative en agriculture. DE KONING, D-J (éd.), Gènes G3|Génomes|Génétique. 15 à*
+
+## Exemples pratiques
+
+Les exemples pratiques suivants sont tirés de l'article d'introduction du package EnvRtype (Costa-Neto et al., 2021b). Ils ont été soigneusement conçus pour fournir un aperçu complet des caractéristiques les plus importantes de ce package. Chaque exemple illustre des applications spécifiques d'EnvRtype dans des contextes agricoles, en explorant la caractérisation de l'environnement, la prédiction génomique et la relation entre les facteurs environnementaux et phénotypiques. Le but de ces exemples n'est pas seulement d'illustrer l'utilisation pratique d'EnvRtype, mais aussi d'offrir des informations précieuses aux chercheurs intéressés par la compréhension et l'optimisation de l'interaction entre le génotype et l'environnement dans les études agricoles.
+
+Le premier exemple montre comment démarrer un pipeline d'envirotypage dans différents endroits du monde. Ceci est utile pour les chercheurs qui souhaitent caractériser les environnements dans lesquels leurs cultures sont cultivées, ce qui permet de mieux comprendre les interactions génotype-environnement.
+
+Dans le deuxième exemple, un jeu de données fictif (maizeG, maizeWTH et maizeYield) est utilisé pour démontrer différentes similitudes environnementales basées sur différents facteurs environnementaux. Deux approches d'environnement sont explorées : une par environnement et une par stade de développement dans chaque environnement. De plus, deux covariables environnementales (FRUE, PETP et FRUE + PETP) sont utilisées pour montrer différentes façons de construire des relations environnementales pour la prédiction génomique. Cette application est utile pour les chercheurs intéressés par la prédiction de réponses génotypiques individuelles façonnées par des facteurs génomiques et enviromoclimatiques spécifiques dans des tests expérimentaux existants ou pour la création de scénarios virtuels.
+Le troisième exemple concerne une étude de prédiction génomique chez le maïs (maïsG, maïsWTH et maïsRendement), où trois modèles différents (M1, modèle de DMs génomique de référence ; M2, modèle RNMM de l'étalon de réaction ; et M3, modèle RNMM considérant une parenté enviromique différente pour chaque stade de développement) sont testés. Deux schémas de validation croisée sont utilisés : l'un pour prédire de nouveaux génotypes, en utilisant 20 % des données comme ensemble d'apprentissage, et l'autre pour prédire de nouveaux génotypes dans de nouveaux environnements, en utilisant 3 des 5 environnements plus 20 % des génotypes comme ensemble d'apprentissage.
+
+Dans cet article, nous explorerons plus en profondeur le deuxième exemple, qui consiste à démontrer différentes similitudes environnementales basées sur différents facteurs environnementaux à l'aide de l'ensemble de données fictives sur le maïs.
+Dans l'exemple 2 du package EnvRtype, un jeu de données factice composé de trois ensembles principaux est utilisé : maizeG, maizeWTH et maizeYield. Cet exemple vise à démontrer différentes similitudes environnementales basées sur différents facteurs environnementaux, en utilisant deux approches d'envirotypage : une par environnement et une par stade de développement dans chaque environnement.
+
+Tout d'abord, il est important de comprendre la structure des données fournies :
+- L'ensemble de données maïsG contient des informations génotypiques, c'est-à-dire des données relatives aux génotypes de maïs utilisés dans l'étude.
+- L'ensemble de données maïsWTH représente les données environnementales, contenant des informations telles que la température, les précipitations et d'autres facteurs environnementaux pertinents.
+- L'ensemble de données maïsRendement comprend des informations sur les rendements du maïs obtenus dans différents environnements et stades de développement.
+Deux niveaux d'environnement sont explorés : par environnement et par stade de développement. Cela signifie que les caractéristiques environnementales sont analysées à la fois en considérant chaque environnement de culture séparément et en considérant les différents stades de développement de la culture dans chaque environnement.
+De plus, deux covariables environnementales sont utilisées, FRUE (Efficient Use of Photosynthetically Active Radiation) et PETP (Potential Evapotranspiration), ainsi que la somme de ces deux variables (FRUE + PETP), pour établir des relations environnementales pour la prédiction génomique.
+Ces analyses permettent aux chercheurs d'explorer et de comprendre comment différents facteurs environnementaux influencent le développement et le rendement des cultures de maïs dans différents environnements et stades de croissance. Cette compréhension est cruciale pour le développement de stratégies de gestion agricole plus efficaces et pour la sélection de génotypes mieux adaptés aux différentes conditions environnementales.
+
+La figure ci-dessous présente le déroulement d'une analyse environnementale à l'échelle mondiale pour les effets de la température de l'air dans les environnements de culture du maïs dans divers endroits. (A) Positions géographiques mondiales de 9 localités utilisées comme exemples fictifs. (B) Panneau ET pour la température moyenne de l'air au cours d'un mois spécifique d'une année particulière dans la saison estivale de chaque emplacement. (C) Matrice de similarité environnementale à l'aide de la méthode du noyau gaussien entre les emplacements observés à l'aide de l'information provenant des ET observables. Cette figure met en évidence la façon dont la similitude environnementale entre des sites de différents continents peut être visualisée pour soutenir la création d'un réseau expérimental à l'échelle mondiale et soutenir l'échange de matériel génétique entre les pays.
+Essentiellement, l'image montre comment les données environnementales peuvent être utilisées pour identifier des modèles de similitude entre différents sites de culture du maïs dans le monde. Cela permet aux chercheurs de visualiser les relations environnementales entre les sites, ce qui facilite la création d'un réseau expérimental mondial. 
+
+La compréhension de ces similitudes environnementales est essentielle pour la sélection de sites de culture appropriés, l'adaptation des génotypes de maïs à des conditions environnementales spécifiques et l'échange de matériel génétique entre les pays.
+
+![Figure illustrative tirée de COSTA-NETO, Germano, GALLI, Giovanni, CARVALHO, Humberto Fanelli, CROSSA, José et FRITSCHE-NETO, Roberto, 2021b. EnvRtype : un logiciel d'interaction entre l'envenimique et la génomique quantitative en agriculture. DE KONING, D-J (éd.), Gènes G3|Génomes|Génétique. 15 à](Images/Image 3.png)
+*Figure illustrative tirée de COSTA-NETO, Germano, GALLI, Giovanni, CARVALHO, Humberto Fanelli, CROSSA, José et FRITSCHE-NETO, Roberto, 2021b. EnvRtype : un logiciel d'interaction entre l'envenimique et la génomique quantitative en agriculture. DE KONING, D-J (éd.), Gènes G3|Génomes|Génétique. 15 à*
+
+En résumé, l'exemple 2 du progiciel EnvRtype offre une approche pratique et détaillée pour explorer les relations entre les facteurs environnementaux et phénotypiques à l'aide de techniques d'envirotypage sur les données des cultures de maïs. Cela peut être appliqué dans les études agricoles pour améliorer la compréhension des impacts environnementaux sur la production agricole et pour optimiser la sélection de génotypes plus productifs et résilients.
+
+## Disponibilité d'EnvRtype
+
+Le package EnvRtype R est disponible publiquement sur GitHub et peut être consulté à l'adresse https://github.com/allogamous/EnvRtype. 
+
+# Conclusion
+
+Dans ce rapport, nous explorons l'importance et les applications de la technologie de l'environnement dans l'agriculture et d'autres domaines d'étude. Tout au long du texte, nous examinons comment ces outils permettent l'intégration de données environnementales, génomiques et phénotypiques afin d'améliorer la compréhension des interactions génotype-environnement et d'optimiser le processus de sélection des cultivars.
+
+Nous soulignons l'apport du progiciel EnvRtype, développé par Costa-Neto et al. (2021b), qui offre une approche globale de la collecte, du traitement et de l'analyse des données environnementales brutes, facilitant la caractérisation environnementale et la prédiction phénotypique dans différentes conditions environnementales. De plus, nous discutons de l'innovation présentée dans plusieurs cas concrets, comme le modèle SIG-FA proposé par Araújo et al. (2023), par exemple.
+
+En analysant des exemples pratiques et des études de cas présentés dans la littérature, il a été possible d'observer les bénéfices de ces approches pour l'identification d'environnements favorables, l'adaptation des génotypes et la recommandation de cultivars plus productifs et résilients. 
+L'intégration de données spatiales, d'analyses statistiques avancées et de modèles de prédiction génomique représente une étape clé dans l'avancement de l'agriculture de précision et le développement de cultivars adaptés à un large éventail de conditions environnementales.
+
+En plus de l'agriculture, plusieurs autres domaines d'études bénéficient des techniques et des concepts de l'environnement. Tout au long du rapport, nous explorons également certains de ces domaines et la façon dont l'environnement peut être appliqué dans différents contextes.
+
+En réfléchissant au potentiel futur de l'environnement et à ses implications pour la production agricole et la sécurité alimentaire mondiale, il est possible d'envisager un horizon d'opportunités et de défis importants. 
+
+Tout d'abord, les progrès technologiques continus promettent d'étendre encore les capacités de l'environnement. Avec l'évolution de la collecte de données environnementales, de l'analyse statistique et de la modélisation prédictive, nous pouvons nous attendre à une plus grande précision et à une plus grande précision dans la compréhension des interactions génotype-environnement. Cela ouvrira la voie à la création de cultivars encore plus adaptés à un large éventail de conditions environnementales.
+
+Cependant, ces avancées soulèvent également d'importantes questions sur l'impact mondial de l'agriculture. Au fur et à mesure que de plus en plus d'agriculteurs adoptent des techniques d'environnement, nous pouvons nous attendre à des améliorations significatives de la productivité agricole et de la durabilité environnementale. Cependant, nous devons également garder à l'esprit les défis éthiques, tels que la confidentialité des données et l'équité dans l'accès à la technologie, en veillant à ce que les avantages soient distribués de manière juste et équitable.
+
+En outre, la collaboration entre divers secteurs – des scientifiques aux agriculteurs en passant par les décideurs politiques et les organisations internationales – sera essentielle pour stimuler davantage le développement et l'application de l'environnement dans l'agriculture. L'échange de connaissances et d'expériences, ainsi qu'un financement adéquat pour la recherche et le développement, contribueront à maximiser le potentiel de l'environnement pour relever les défis alimentaires du 21e siècle.
+
+Dans l'ensemble, l'environnement représente un outil puissant pour stimuler l'agriculture de précision et améliorer la sécurité alimentaire mondiale. En exploitant le potentiel de l'environnement et en relevant ses défis de manière collaborative, nous pouvons construire un avenir plus durable et plus résilient pour la production agricole dans le monde entier.
+
+# Références
+
+ARAÚJO, Maurício S., CHAVES, Saulo F. S., DIAS, Luiz A. S., FERREIRA, Filipe M., PEREIRA, Guilherme R., BEZERRA, André R. G., ALVES, Rodrigo S., 
+HEINEMANN, Alexandre B., BRESEGHELLO, Flávio, CARNEIRO, Pedro C. S., KRAUSE, Matheus D., COSTA-NETO, Germano et DIAS, Kaio O. G., 2023. SIG-FA : Une approche pour intégrer les cartes thématiques, l'analyse factorielle et l'envirotypage pour le ciblage des cultivars [en ligne]. 12 août 2023. bioRxiv. [Consulté le 15 février 2024]. Disponible à l'adresse : https://www.biorxiv.org/content/10.1101/2023.07.15.549137v2
+
+CHANG, Ta Chen et STOLER, Justin, 2019. L'envirotypage : le prochain bond en avant dans la pratique de la médecine de précision ? Journal américain d'ophtalmologie. 1er juin 2019. Vol. 202, p. xi-xiii. DOI 10.1016/j.ajo.2019.05.013. 
+
+COSTA-NETO, Germano, FRITSCHE-NETO, Roberto et CROSSA, José, 2021a. Les données non linéaires sur les noyaux, la dominance et l'environnement augmentent la précision de la prédiction basée sur le génome dans les essais multi-environnements. L'hérédité. Janvier 2021. Vol. 126, n° 1, p. 92-106. DOI 10.1038/S41437-020-00353-1. 
+
+COSTA-NETO, Germano, GALLI, Giovanni, CARVALHO, Humberto Fanelli, CROSSA, José et FRITSCHE-NETO, Roberto, 2021b. EnvRtype : un logiciel d'interaction entre l'enviromique et la génomique quantitative en agriculture. DE KONING, D-J (éd.), Gènes G3|Génomes|Génétique. 15 avril 2021. Vol. 11, no. 4, p. JKAB040. DOI 10.1093/G3Journal/JKAB040. 
+
+ENGELHARD, Matthew M., OLIVER, Jason A. et MCCLERNON, F. Joseph, 2020. Environnement numérique : quantifier les déterminants environnementaux de la santé et du comportement. npj Médecine numérique. 12 mars 2020. Vol. 3, n° 1, p. 1-3. DOI 10.1038/S41746-020-0245-3. 
+
+GALLI, Giovanni, LYRA, Danilo, ALVES, Filipe, GRANATO, Italo, SOUSA, Massaine et FRITSCHE-NETO, Roberto, 2018. Impact de la méthode de correction phénotypique et des données phénotypiques manquantes sur la prédiction génomique des hybrides de maïs. Crop Science. 7 mai 2018. Vol. 58. DOI 10.2135/cropsci2017.07.0459. 
+
+PAULI, Duke, CHAPMAN, Scott C., BART, Rebecca, TOPP, Christopher N., LAWRENCE-DILL, Carolyn J., POLOGNE, Jesse et GORE, Michael A., 2016. La quête de la compréhension de la variation phénotypique via des approches intégrées dans l'environnement de terrain. Physiologie végétale. 1er octobre 2016. Vol. 172, n° 2, p. 622-634. DOI 10.1104/pp.16.00592. 
+
+XU, Yunbi, 2016. Envirotypage pour décrypter les impacts environnementaux sur les plantes cultivées. Génétique théorique et appliquée. avril 2016. Vol. 129, no. 4, p. 653-673. DOI 10.1007/S00122-016-2691-5. 
+
+YUE, Haiwang, OLIVOTO, Tiago, BU, Junzhou, LI, Jie, WEI, Jianwei, XIE, Junliang, CHEN, Shuping, PENG, Haicheng, NARDINO, Maicon et JIANG, Xuwen, 2022. Sélection multi-caractères pour la performance moyenne et la stabilité des hybrides de maïs dans des méga-environnements délimités à l'aide de techniques d'envirotypage. Frontiers in Plant Science [en ligne]. 2022. Vol. 13. [Consulté le 15 février 2024]. Disponible à l'adresse : https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.1030521
+
+
 
