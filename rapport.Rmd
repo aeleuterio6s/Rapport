@@ -1,0 +1,61 @@
+---
+title: "Envirotyping"
+author: "Antônio Gabriel Eleutério Viana"
+date: "15/02/2024"
+output: word_document
+---
+
+## Résumé
+
+1. Présentation
+   - Présentation du thème et de l'importance de l'envirotypage en agriculture de précision.
+2. Contextualisation théorique
+   - Définition et concepts fondamentaux de l'environnement.
+   - Discussion de l'interaction génotype-environnement et de sa pertinence pour l'agriculture.
+3. Comment cela fonctionne-t-il ?
+   - Explication détaillée des processus impliqués dans l'environnement, de la collecte et du traitement des données environnementales à l'analyse statistique et à la modélisation prédictive.
+4. Applications
+   - Exploration des différentes applications de l'envirotypage en agriculture, en soulignant son importance dans la sélection de cultivars adaptés aux différentes conditions environnementales.
+   - Discussion sur d'autres domaines d'études qui bénéficient de l'environnement, tels que la médecine de précision et l'écologie.
+5. Exemples
+   - Présentation d'études de cas et d'exemples pratiques qui démontrent l'application de l'envirotypage dans différents scénarios agricoles et environnementaux.
+6. Ressources logicielles et de données
+   - Description des principaux outils, logiciels et ressources de données utilisés dans l'environnement, y compris les plateformes SIG, les langages de programmation statistique et les logiciels spécialisés.
+7. Conclusion
+   - Synthèse des principaux résultats et apports de l'envirotypage à l'agriculture et à d'autres domaines d'étude.
+   - Réflexion sur le potentiel futur de l'environnement et ses implications pour la production agricole et la sécurité alimentaire mondiale.
+8. Références
+- Liste des sources bibliographiques utilisées pour étayer le rapport, y compris les articles scientifiques, les livres et autres ressources pertinentes.
+
+## Introduction
+
+L'envirotypage est un terme qui fait référence à la caractérisation et à la quantification des effets de l'environnement sur les phénotypes des plantes ou des organismes.
+Dans le contexte de l'agriculture de précision, l'envirotypage apparaît comme une approche innovante pour comprendre et optimiser les réponses des cultures à l'environnement. Alors que le génotypage a traditionnellement été centré sur l'identification des gènes responsables des caractéristiques des plantes (Galli et al., 2018), l'envirotypage reconnaît l'influence cruciale de l'interaction complexe entre les gènes et l'environnement sur la performance phénotypique des cultures. Cette approche reconnaît non seulement l'importance des variations environnementales (Costa-Neto et al., 2021b), mais cherche également à intégrer des données environnementales provenant de sources multiples afin de mieux comprendre l'interaction génotype-environnement et de développer des stratégies de sélection moléculaire plus efficaces.
+
+Dans la présente analyse, nous explorons l'importance croissante de l'environnement dans l'agriculture de précision et dans plusieurs domaines connexes. Tout au long de ce rapport, nous examinerons comment les outils d'envirotypage permettent l'intégration de données environnementales, génomiques et phénotypiques, élargissant ainsi notre compréhension des interactions complexes entre le génotype et l'environnement et améliorant le processus de sélection et de sélection des cultivars dans son ensemble.
+
+## Contextualisation théorique
+
+L'interaction entre les gènes et l'environnement joue un rôle clé dans la détermination de la performance phénotypique des plantes. Cette interaction dynamique influence un large éventail de caractéristiques végétales, de la croissance et du développement à la résistance aux stress biotiques et abiotiques.
+Comprendre cette interaction génotype-environnement est essentiel pour l'agriculture de précision, car elle permet d'optimiser la gestion agricole pour différentes conditions environnementales, en visant une meilleure productivité et durabilité. Par exemple, différentes variétés de cultures peuvent présenter des réponses distinctes au même stress environnemental, et la compréhension de ces différences permet aux agriculteurs de sélectionner les cultivars les mieux adaptés à certains environnements.
+Cependant, la complexité de l'environnement agricole, avec sa variabilité spatiale et temporelle, pose un défi de taille. Des méthodes statistiques, telles que des modèles linéaires mixtes et des techniques multivariées, sont utilisées pour analyser ces données et identifier des modèles d'interaction génotype-environnement (GEI) (Araujo et al., 2023). Il est essentiel de comprendre ces tendances pour sélectionner des génotypes prometteurs qui sont stables et performants dans divers contextes.
+De plus, l'intégration d'informations environnementales, telles que les données sur le sol, le climat et la topographie, par le biais de techniques de systèmes d'information géographique (SIG), enrichit l'analyse de l'interaction génotype-environnement. Cela permet une compréhension plus complète des facteurs environnementaux qui influencent les performances des plantes et aide à l'identification des méga-environnements et à l'optimisation des ressources (Araujo et al., 2023).
+L'envirotypage, qui combine des données environnementales provenant de diverses sources, y compris des informations sur le climat et les sols, avec des données génomiques et phénotypiques, offre une approche intégrée pour comprendre et prédire les performances des plantes dans différents environnements.
+L'environnement, quant à lui, intègre des données environnementales provenant de diverses sources, notamment le climat, le sol, la topographie, l'imagerie satellitaire, les capteurs de terrain et la modélisation informatique. Cette approche globale permet de mieux comprendre l'interaction génotype-environnement et de développer des stratégies de sélection moléculaire plus efficaces.
+En reconnaissant l'importance des variations environnementales et en intégrant des données environnementales provenant de sources multiples, l'envirotypage offre une approche globale pour déchiffrer les impacts environnementaux sur les cultures et maximiser leur potentiel de production dans différents contextes agricoles. En comprenant comment les plantes réagissent aux conditions environnementales changeantes, les agriculteurs peuvent prendre des décisions plus éclairées sur la gestion des cultures, sélectionner des cultivars plus appropriés et mettre en œuvre des pratiques de culture plus efficaces et durables.
+
+## Comment cela fonctionne-t-il ? 
+
+
+L'envirotypage est réalisé grâce à la collecte et à l'analyse d'une variété de données environnementales qui peuvent influencer la croissance et le développement des plantes (Xu, 2016). Il peut s'agir de :
+Données climatiques : Enregistrement de la température, de l'humidité, des précipitations, du rayonnement solaire et d'autres paramètres climatiques pertinents pour la région de culture.
+Données sur le sol : Informations sur le pH, la composition minérale, la texture du sol et la disponibilité des nutriments.
+Données topographiques : caractéristiques du terrain, telles que l'altitude, la pente et l'exposition au soleil.
+Imagerie satellitaire : Utilisation de l'imagerie satellitaire pour surveiller la couverture végétale, identifier les modèles d'utilisation des terres et détecter les variations de la végétation au fil du temps. 
+Capteurs de terrain : Utilisation de capteurs installés dans les cultures pour surveiller des variables telles que l'humidité du sol, la température ambiante et la qualité de l'air.
+Technologies de télédétection : Utilisation de drones et d'autres technologies pour recueillir des images à haute résolution et des données spectrales afin d'évaluer l'état des cultures et les caractéristiques de l'environnement.
+Modélisation computationnelle : Utilisation de modèles mathématiques et informatiques pour simuler et prédire le comportement des cultures dans différentes conditions environnementales.
+Les facteurs environnementaux peuvent être classés en cinq groupes principaux : le climat, le sol, le couvert végétal, la gestion des cultures et les organismes compagnons. Chacune contient plusieurs sous-catégories qui décrivent des facteurs environnementaux importants qui, comme illustré ci-dessous, affectent la croissance et le développement des plantes.
+En combinant ces données et ces techniques, les chercheurs peuvent identifier des modèles et des relations entre les conditions environnementales et le rendement des plantes, ce qui permet de mieux comprendre les facteurs qui influencent la croissance, la productivité et la qualité des cultures. 
+![Ill. 1. XU, Yunbi, 2016. Envirotypage pour décrypter les impacts environnementaux sur les plantes cultivées. Génétique théorique et appliquée. Avril 2016. Vol. 129, n° 4, p. 653-673. DOI 10.1007/S00122-016-2691-5.](Images/image 1.png)
+
